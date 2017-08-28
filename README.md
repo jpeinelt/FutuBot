@@ -1,4 +1,4 @@
-# Minimal Telegram Bot
+# Minimal Telegram Bot with Vapor
 
 A minimal telegram bot that can search giphy for funny+fail gifs and returns a random one of the results
 Created for a small internal demo for our iOS group at [Futurice](https://futurice.com/) in Berlin.
